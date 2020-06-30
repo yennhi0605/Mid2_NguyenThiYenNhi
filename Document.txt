@@ -1,0 +1,2 @@
+Trước tiên để chạy thì truy cập vào địa chỉ: 
+http://localhost/Laravel/Project/index
